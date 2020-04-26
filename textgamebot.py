@@ -1,7 +1,7 @@
 import telebot
 import random
 
-bot = telebot.TeleBot("1078370491:AAHZnEmtvUSx7QSXhWEJbysV5E8U_R98H74")
+bot = telebot.TeleBot("token")
 
 arthp = 12
 witchhp = 20
